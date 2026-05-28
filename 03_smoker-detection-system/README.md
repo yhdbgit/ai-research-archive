@@ -35,7 +35,9 @@
 ---
 
 ## 3. 실험 결과 시각화
-![Inference Result](./docs/inference_result.png)
+![Inference Result](./docs/images/result_graph.png)
+![Inference Result](./docs/images/result_image1.png)
+![Inference Result](./docs/images/result_image2.png)
 
 ---
 
@@ -43,3 +45,4 @@
 
 * **비즈니스 관점의 AI 재정의**: 단순히 정확도 점수만 올리는 딥러닝이 아니라, **"화재 발생 후의 사후 대응을 화재 이전의 원인 차단이라는 예방적 관점으로 전환"**하는 비즈니스 도메인 중심의 AI 아키텍처 설계 능력을 길렀습니다.
 * **실무 확장성**: 경량 모델 기반의 실시간 객체 탐지 기술은 대규모 서버 인프라뿐만 아니라 **산림 감시용 드론(Edge 장비) 및 실시간 온디바이스 AI(On-Device AI) 환경에도 가볍게 이식되어 운영 비용을 획기적으로 낮출 수 있는 재사용성 높은 자산**이 될 것입니다.
+

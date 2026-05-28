@@ -36,7 +36,7 @@
 ---
 
 ## 3. 실험 결과 시각화
-![Detection Result](./docs/detection_result.png)
+![Detection Result](./docs/result_image.png)
 
 ---
 

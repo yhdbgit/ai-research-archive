@@ -39,8 +39,7 @@
 ---
 
 ## 3. 실험 결과 시각화
-> 
-> `![학습 결과 그래프](./images/result_graph.png)`
+![결과 그래프](./docs/result_graph.png)
 
 ---
 
